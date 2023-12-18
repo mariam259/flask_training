@@ -1,2 +1,4 @@
-simple book api that can get or post book 
+#Book API
+
+simple book API that can get books saved on my database or post a new book 
 
