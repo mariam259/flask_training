@@ -1,4 +1,4 @@
-##Book API
-
-simple book API that can get books saved on my database or post a new book 
+# Projects
+simple projects created while learning flask 
+From creating simple functions to API calls and saving data into a database
 
